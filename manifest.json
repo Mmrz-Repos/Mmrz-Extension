@@ -1,10 +1,10 @@
 {
-  "name": "Mmrz",
+  "name": "Mmrz search helper",
   "version": "0.0.1",
   "manifest_version": 2,
 
   // 简单描述
-  "description": "查询单词",
+  "description": "Search with https://mmrz.zhanglintc.co",
   "icons": {
     "16": "image/icon16.png",
     "48": "image/icon48.png"
