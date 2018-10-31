@@ -12,7 +12,7 @@
   "browser_action": {
     "default_title": "Mmrz",
     "default_icon": "image/icon16.png",
-    "default_popup": "main.html"
+    "default_popup": "popup.html"
   },
 
   "background": {   
