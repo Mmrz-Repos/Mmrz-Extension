@@ -3,7 +3,7 @@ function selectionOnClick(info, tab) {
 }
 
 chrome.contextMenus.create({
-    "title": "Search with Mmrz",
+    "title": 'Mmrz search for "%s"',
     "contexts": ["selection"],
     "onclick": selectionOnClick,
 });
