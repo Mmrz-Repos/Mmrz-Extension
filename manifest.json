@@ -15,8 +15,8 @@
     "default_popup": "popup.html"
   },
 
-  "background": {   
-    "scripts": ["menu.js"]   
+  "background": {
+    "scripts": ["menu.js"]
   }, 
 
   "content_scripts": [
@@ -34,8 +34,6 @@
 
   "permissions": [
     "contextMenus",
-    "tabs",
-    "http://*/*",
-    "https://*/*"
+    "https://mmrz.zhanglintc.co/*"
   ]
 }
